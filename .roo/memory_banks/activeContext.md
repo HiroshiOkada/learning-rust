@@ -2,11 +2,11 @@
 
 ## 現在のステップ
 
-ステップ5: Webアプリ開発 (フレームワーク: Rocket 🚀) - クエリパラメータを使ったルート作成完了
+ステップ5: Webアプリ開発 (フレームワーク: Rocket 🚀) - JSONを返すAPIエンドポイント作成完了
 
 ## 次のステップ
 
-ステップ5: Webアプリ開発 (フレームワーク: Rocket 🚀) - JSONを返すAPIエンドポイント作成 (`questions/rocket_json_api.md` の課題)
+ステップ5: Webアプリ開発 (フレームワーク: Rocket 🚀) - POSTリクエストでJSONデータを受け取るAPIエンドポイント作成 (`questions/rocket_post_json.md` の課題)
 
 ## 目標
 
@@ -20,3 +20,4 @@ Rocketを使って、簡単なWebアプリを開発する
 *   2025/04/08: メガネ君が `questions/rocket_path_param.md` の課題を完了し、パスパラメータを使ったルートを作成、動作確認済み。`#[get]` と `routes!` での明示的な登録が必要な点に気づく。
 *   2025/04/08: メガネ君が `questions/rocket_query_param.md` の課題を完了し、クエリパラメータを使ったルートを作成、動作確認済み。
 *   2025/04/08: JSON API作成の課題 (`questions/rocket_json_api.md`) を提示して終了。次回はこの課題から再開。
+*   2025/04/12: メガネ君が `questions/rocket_json_api.md` の課題を完了し、JSONを返すAPIを作成、動作確認済み。

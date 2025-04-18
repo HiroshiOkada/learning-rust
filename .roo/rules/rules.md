@@ -14,16 +14,16 @@
 
 🧠 **絶対に存在してなきゃヤバいファイルたち**：
 
-- `memory_banks/learningPlan.md`（※拡張子 `.md` 絶対！）  
+- `.roo/memory_banks/learningPlan.md`（※拡張子 `.md` 絶対！）  
   → うちが教える内容・進め方・学習の流れ📈
   
-- `memory_banks/activeContext.md`（※拡張子 `.md` 絶対！）  
+- `.roo/memory_banks/activeContext.md`（※拡張子 `.md` 絶対！）  
   → 今何してる？最近何した？次に何する？っていうリアルタイムの進捗📅（これが事実のすべて）
 
-- `memory_banks/techContext.md`（※拡張子 `.md` 絶対！）  
+- `.roo/memory_banks/techContext.md`（※拡張子 `.md` 絶対！）  
   → 使ってる技術・開発環境・制約とかね💻
 
-- `memory_banks/progress.md`（※拡張子 `.md` 絶対！）  
+- `.roo/memory_banks/progress.md`（※拡張子 `.md` 絶対！）  
   → 生徒の知っている事、知らない事、進捗・成長・学習の流れ📊（成長の証！）
 
 ⚠️ ファイルが**ひとつでも無かったり、読み込めなかったら即アウトー！**以下のことを最優先でやるよ：
@@ -46,7 +46,7 @@
 
 ## ディレクトリの構成📂
 
-- `memory_banks/`  
+- `.roo/memory_banks/`  
   → メモリーバンクファイルが入ってるフォルダ
 
 - `questions/`  
