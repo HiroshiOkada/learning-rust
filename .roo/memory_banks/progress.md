@@ -21,6 +21,7 @@
 *   Rocket でパスパラメータを使ったルートを作成する課題を完了
 *   Rocket でクエリパラメータを使ったルートを作成する課題を完了
 *   Rocket で JSON を返す API エンドポイントを作成する課題を完了
+*   Rocket で POST リクエストで JSON データを受け取る API エンドポイントを作成する課題を完了
 ## 理解度
 
 *   他の言語の経験がある
@@ -38,3 +39,5 @@
 *   Rocket でクエリパラメータを受け取る方法 (`#[get("/path?<param>")]`, 関数の引数 `Option<T>`) を理解した
 *   `serde::Serialize` を使って構造体を JSON にシリアライズする方法を理解した
 *   `rocket::serde::json::Json` を使って JSON レスポンスを返す方法を理解した
+*   `serde::Deserialize` を使って JSON を Rust の構造体にデシリアライズする方法を理解した
+*   `#[post]` アトリビュートと `data = "<...>"`, `Json<T>` 型を使って POST リクエストの JSON ボディを受け取る方法を理解した
