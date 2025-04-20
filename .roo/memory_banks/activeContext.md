@@ -2,11 +2,11 @@
 
 ## 現在のステップ
 
-ステップ5: Webアプリ開発 (フレームワーク: Rocket 🚀) - POSTリクエストでJSONデータを受け取るAPIエンドポイント作成完了
+ステップ5: Webアプリ開発 (フレームワーク: Rocket 🚀) - CRUD処理の実装完了 (`questions/rocket_crud.md` の課題完了)
 
 ## 次のステップ
 
-ステップ5: Webアプリ開発 (フレームワーク: Rocket 🚀) - CRUD処理の実装 (次の課題: `questions/rocket_crud.md` を予定)
+ステップ5: Webアプリ開発 (フレームワーク: Rocket 🚀) - 休憩＆復習タイム。次回はここまでの内容の復習から再開する。
 
 ## 目標
 
@@ -22,3 +22,5 @@ Rocketを使って、簡単なWebアプリを開発する
 *   2025/04/08: JSON API作成の課題 (`questions/rocket_json_api.md`) を提示して終了。次回はこの課題から再開。
 *   2025/04/12: メガネ君が `questions/rocket_json_api.md` の課題を完了し、JSONを返すAPIを作成、動作確認済み。
 *   2025/04/20: メガネ君が `questions/rocket_post_json.md` の課題を完了し、POSTリクエストでJSONデータを受け取るAPIを作成、動作確認済み。
+*   2025/04/20: メガネ君が `questions/rocket_crud.md` の課題を完了し、CRUD処理を実装、動作確認済み。Delete操作ではIDをPATHではなくJSONで渡すように変更。
+*   2025/04/20: CRUD実装完了後、休憩＆復習を選択。次回は復習から再開予定。

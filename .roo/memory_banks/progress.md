@@ -22,6 +22,8 @@
 *   Rocket でクエリパラメータを使ったルートを作成する課題を完了
 *   Rocket で JSON を返す API エンドポイントを作成する課題を完了
 *   Rocket で POST リクエストで JSON データを受け取る API エンドポイントを作成する課題を完了
+*   Rocket で CRUD 処理を実装する課題を完了
+
 ## 理解度
 
 *   他の言語の経験がある
@@ -41,3 +43,5 @@
 *   `rocket::serde::json::Json` を使って JSON レスポンスを返す方法を理解した
 *   `serde::Deserialize` を使って JSON を Rust の構造体にデシリアライズする方法を理解した
 *   `#[post]` アトリビュートと `data = "<...>"`, `Json<T>` 型を使って POST リクエストの JSON ボディを受け取る方法を理解した
+*   インメモリの `Mutex<Vec<T>>` を使って状態を管理し、基本的な CRUD (Create, Read, Update, Delete) 操作を実装する方法を理解した
+*   Delete 操作において、PATH パラメータと JSON ボディの両方で ID を受け取る冗長性に気づき、JSON ボディのみで受け取るように設計を改善できることを理解した
